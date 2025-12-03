@@ -1,15 +1,15 @@
 #!/bin/bash
 
-# =========================================================
+# ========================================================
 #         LINUX AUTOMATED BACKUP SCRIPT (UBUNTU)
-# =========================================================
+# ========================================================
 # Features:
 #  ✔ Compresses source directory
 #  ✔ Adds timestamp to backup files
 #  ✔ Ensures backup directory exists
 #  ✔ Generates detailed logs
 #  ✔ Safe for cron automation
-# =========================================================
+# ========================================================
 
 # -------- CONFIGURATIONS --------
 SOURCE_DIR="$HOME/backup_project/data"
